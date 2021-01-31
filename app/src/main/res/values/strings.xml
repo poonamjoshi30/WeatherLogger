@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Loger</string>
+    <string name="no_internet">No Internet Available</string>
+    <string name="temperature">Temperature :</string>
+    <string name="date">Date :</string>
+    <string name="more_details">More Details</string>
+    <string name="name">Name :</string>
+    <string name="description">Description :</string>
+    <string name="less_details">Less Details</string>
+</resources>
